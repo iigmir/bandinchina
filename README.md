@@ -1,17 +1,17 @@
 <p align="center"> 
 					<img src="public/assets/images/mei-circle.png">
 					<br/>
-					Image Credit:
-					<a href="https://www.reddit.com/r/HongKong/comments/dffh96/someone_drew_this_hong_kong_mei_and_asked_me_to/">Source</a>
-					<p align="center"><i>"The only thing necessary for the triumph of evil is for good men to do nothing."</i></p>
+					圖片來源標示：
+					<a href="https://www.reddit.com/r/HongKong/comments/dffh96/someone_drew_this_hong_kong_mei_and_asked_me_to/">來源</a>
+					<p align="center"><i>「邪惡盛行的唯一條件，是善良者的袖手旁觀。」</i></p>
 					<p align="center">- Edmund Burke</p>
 				</p>
 				
 <p></p>
 				
-<h2 id="summary">Summary</h2>
+<h2 id="summary">總結</h2>
 				
-<p>View the website at <a href="https://caffeine-overload.github.io/bandinchina/">https://caffeine-overload.github.io/bandinchina/</a>
+<p>看一下 <a href="https://caffeine-overload.github.io/bandinchina/">https://caffeine-overload.github.io/bandinchina/</a> 網站。
 				<br>This is a comprehensive repository for many, if not all, topics related to Hong Kong, and in addition, this repository contains a detailed list of western companies who bend to Chinese will and censor themselves or others in order to appease the CCP. </p>
 				<br />
 				<p><a name="links"></p>
@@ -26,8 +26,8 @@
 </a></p>
 				
 <ul>
-<li><a href="public/assets/lists/blacklist.md"> Blacklist of companies who kowtow to Chinese censorship requests </a></li>
-<li><a href="public/assets/lists/whitelist.md"> Whitelist of companies with a backbone </a></li>
+<li><a href="public/assets/lists/blacklist.md"> 對中國審查叩頭的黑名單公司 </a></li>
+<li><a href="public/assets/lists/whitelist.md"> 有骨氣的白名單公司 </a></li>
 <li><a href="#help-hk">How to help Hong Kong protests from abroad</a>
 				
 <ul>
@@ -35,24 +35,24 @@
 				
 <li><a href="#help-hk-monetary-and-non-monetary-donations">Monetary &amp; Non-monetary Donations</a></li>
 				
-<li><a href="#help-hk-usa">United States of America</a></li>
+<li><a href="#help-hk-usa">美國</a></li>
 				
-<li><a href="#help-hk-uk">United Kingdom</a></li>
+<li><a href="#help-hk-uk">英國</a></li>
 				
-<li><a href="#help-hk-can">Canada</a></li>
+<li><a href="#help-hk-can">加拿大</a></li>
 				
-<li><a href="#help-hk-aus">Australia</a></li>
+<li><a href="#help-hk-aus">澳洲</a></li>
 				
-<li><a href="#help-hk-nz">New Zealand</a></li>
+<li><a href="#help-hk-nz">紐西蘭</a></li>
 				
-<li><a href="#help-hk-eu">Europe</a></li>
+<li><a href="#help-hk-eu">歐洲</a></li>
 				
-<li><a href="#help-hk-cn">China</a></li>
+<li><a href="#help-hk-cn">中華人民共和國</a></li>
 				
-<li><a href="#help-hk-others">Others</a></li></ul>
+<li><a href="#help-hk-others">其他地方</a></li></ul>
 </li>
 				
-<li><a href="#past-achievements">Past Achievements</a></li>
+<li><a href="#past-achievements">過去的成就</a></li>
 </ul>
 
 <hr />
@@ -65,7 +65,7 @@
     <img src="public/assets/images/mei-circle-16x16.png">
       How to help Hong Kong protests from abroad
   </h1>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
@@ -80,7 +80,7 @@
   <h2>
     GENERAL - anyone can sign the petitions below (no citizenship pre-requisite)
   </h2>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
@@ -125,7 +125,7 @@
   <h2>
     MONETARY AND NON-MONETARY DONATIONS
   </h2>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
@@ -160,13 +160,13 @@
 <img src="public/assets/images/flag-of-United-States-of-America.png"></p>
 
   <h2>
-    UNITED STATES OF AMERICA (USA)
+    美國
   </h2>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
-<p>3.1 Write to US Congress (Senators and Representatives)</p>
+<p>3.1 給美國的國會寫信（參議院與眾議院都可以）</p>
 
 <p><a href="https://www.house.gov/representatives/find-your-representative">[Find your representative]</a></p>
 
@@ -189,13 +189,13 @@
 <img src="public/assets/images/flag-of-United-Kingdom.png"></p>
 
   <h2>
-    UNITED KINGDOM (UK)
+    英國
   </h2>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
-<p>4.1 <a href="https://www.parliament.uk/get-involved/contact-your-mp/">[Write]</a> or <a href="https://www.writetothem.com/">[Email]</a> your <a href="https://www.theyworkforyou.com/mps/">[local Member of Parliament]</a> (UK)</p>
+<p>4.1 給你 <a href="https://www.theyworkforyou.com/mps/">[當地的國會議員]</a> <a href="https://www.parliament.uk/get-involved/contact-your-mp/">[寫信]</a> 或 <a href="https://www.writetothem.com/">[寄電郵]</a> (UK)</p>
 
 <p>4.2 <a href="https://petition.standwithhk.org">[Petition UK]</a> to Uphold the 1984 Sino-British Joint Declaration</p>
 
@@ -208,9 +208,9 @@
 <img src="public/assets/images/flag-of-Canada.png"></p>
 
   <h2>
-    CANADA (CAN)
+    加拿大
   </h2>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
@@ -227,9 +227,9 @@
 <img src="public/assets/images/flag-of-Australia.png"></p>
 
   <h2>
-    AUSTRALIA (AUS)
+    澳洲
   </h2>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
@@ -254,9 +254,9 @@
 <img src="public/assets/images/flag-of-New-Zealand.png"></p>
 
   <h2>
-    NEW ZEALAND (NZ)
+    紐西蘭
   </h2>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
@@ -269,9 +269,9 @@
 <img src="public/assets/images/flag_of_Europe.png"></p>
 
   <h2>
-    EUROPE (EU)
+    歐洲
   </h2>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
@@ -288,22 +288,22 @@
 <img src="public/assets/images/flag_of_the_People's_Republic_of_China.png"></p>
 
   <h2>
-    CHINA (CN)
+    中華人民共和國
   </h2>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
-<p>9.1 Speak out but be anonymous. Let other Chinese, Hong Kong people, the world know that there are Chinese or Mainland Chinese who do supports the Hong Kong protest.</p>
+<p>9.1 盡可能匿名說出你的看法。讓其他中國人、香港人、還有世界上的其他人，知道還有中國人與華人，在支持香港的抗議。</p>
 
 <hr />
 
 <p><a name="help-hk-others"></p>
 
   <h2>
-    OTHERS
+    其他
   </h2>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
@@ -320,9 +320,9 @@
 
   <h1>
     <img src="public/assets/images/mei-circle-16x16.png">
-      Past Achievements
+      過去成就
   </h1>
-<a href="#">Top</a> / <a href="#go-to">Navigation</a>
+<a href="#">頁頂</a> / <a href="#go-to">導覽</a>
 <p><br />
 </a></p>
 
